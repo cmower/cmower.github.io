@@ -1,0 +1,16 @@
+Many robotic tasks require human interaction through teleoperation to
+achieve high performance. However, in industrial applications these
+methods often require high levels of concentration and manual
+dexterity leading to high cognitive loads and dangerous working
+conditions. Shared autonomy attempts to address these issues by
+blending human and autonomous reasoning, relieving the burden of
+precise motor control, tracking, and localization. In this paper we
+propose an optimization-based representation for shared autonomy in
+dynamic environments. We ensure real-time tractability by modulating
+the human input with the information of the changing environment in
+the same task space, instead of adding it to the optimization cost or
+constraints. We illustrate the method with two real world
+applications: grasping objects in a cluttered environment, and a
+spraying task requiring sprayed linings with greater
+homogeneity. Finally we use a 7 degree of freedom KUKA LWR arm to
+simulate the grasping and spraying experiments.

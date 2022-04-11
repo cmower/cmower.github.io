@@ -1,0 +1,17 @@
+This work presents a fully integrated system for reliable grasping and
+manipulation using dense visual mapping, collision-free motion
+planning, and shared autonomy. The particular motion sequences are
+composed automatically based on high-level objectives provided by a
+human operator, with continuous scene monitoring during execution
+automatically detecting and adapting to dynamic changes of the
+environment. The system is able to automatically recover from a
+variety of disturbances and fall back to the operator if stuck or if
+it cannot otherwise guarantee safety. Furthermore, the operator can
+take control at any time and then resume autonomous operation. Our
+system is flexible to be adapted to new robotic systems, and we
+demonstrate our work on two real-world platforms - fixed and floating
+base - in shared workspace scenarios. To the best of our knowledge,
+this work is also the first to employ the inverse Dynamic Reachability
+Map for real-time, optimized mobile base positioning to maximize
+workspace manipulability reducing cycle time and increasing planning
+and autonomy robustness.

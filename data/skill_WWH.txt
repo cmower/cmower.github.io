@@ -1,0 +1,27 @@
+
+WHY:
+====
+
+Teleoperators in industry use different motion patterns (i.e. skills)
+to achieve different goals. E.g. a concrete spraying opertator will
+use large sweeping motions to build up layers slowly, or small
+concentric circles to build up layers quickly. Training to achieve
+expert status is prolonged and costly.
+
+WHAT:
+=====
+
+How do we develop an appropriate shared control framework that assists
+an operator to maintain a skill whilst ensuring (changing) environment
+constriants?
+
+HOW:
+====
+
+This paper proposes a model-based framework that plans motions which
+respect a skill whilst ensuring environment constraints are
+satisfied. The method uses a moving horizon estimation scheme to
+classify the operators desired skill (i.e. intention), and then
+optimizes a predicted trajectory using a nonlinear optimization
+program in an model predictive control loop. The method can adapt to
+changes in the operator intention and environment.

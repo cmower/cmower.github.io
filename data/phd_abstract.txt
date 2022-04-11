@@ -1,0 +1,71 @@
+Teleoperation is an integral component of various industrial
+processes. For example, concrete spraying, assisted welding,
+plastering, inspection, and maintenance. Often these systems implement
+direct control that maps interface signals onto robot
+motions. Successful completion of tasks typically requires high levels
+of manual dexterity and cognitive load. In addition, the operator is
+often present nearby dangerous machinery. Consequently, safety is of
+critical importance and training is expensive and prolonged -- in some
+cases taking several months or even years. An autonomous robot
+replacement would be an ideal solution since the human could be
+removed from danger and training costs significantly reduced. However,
+this is currently not possible due to the complexity and
+unpredictability of the environments, and the levels of situational
+and contextual awareness required to successfully complete these
+tasks. In this thesis, the limitations of direct control are addressed
+by developing methods for shared autonomy. A shared autonomous
+approach combines human input with autonomy to generate optimal robot
+motions. The approach taken in this thesis is to formulate shared
+autonomy within an optimization framework that finds optimized states
+and controls by minimizing a cost function, modeling task objectives,
+given a set of (changing) physical and operational constraints. Online
+shared autonomy requires the human to be continuously interacting with
+the system via an interface (akin to direct control). The key
+challenges addressed in this thesis are: 1) ensuring computational
+feasibility (such a method should be able to find solutions fast
+enough to achieve a sampling frequency bound below by 40Hz), 2) being
+reactive to changes in the environment and operator intention, 3)
+knowing how to appropriately blend operator input and autonomy, and 4)
+allowing the operator to supply input in an intuitive manner that is
+conducive to high task performance. Various operator interfaces are
+investigated with regards to the control space, called a mode of
+teleoperation. Extensive evaluations were carried out to determine for
+which modes are most intuitive and lead to highest performance in
+target acquisition tasks (e.g. spraying/welding/etc). Our performance
+metrics quantified task difficulty based on Fitts' law, as well as a
+measure of how well constraints affecting the task performance were
+met. The experimental evaluations indicate that higher performance is
+achieved when humans submit commands in low-dimensional task spaces as
+opposed to joint space manipulations. In addition, our multivariate
+analysis indicated that those with regular exposure to computer games
+achieved higher performance. Shared autonomy aims to relieve human
+operators of the burden of precise motor control, tracking, and
+localization. An optimization-based representation for shared autonomy
+in dynamic environments was developed. Real-time tractability is
+ensured by modulating the human input with information of the changing
+environment within the same task space, instead of adding it to the
+optimization cost or constraints. The method was illustrated with two
+real world applications: grasping objects in cluttered environments
+and spraying tasks requiring sprayed linings with greater
+homogeneity. Maintaining motion patterns -- referred to as skills --
+is often an integral part of teleoperation for various industrial
+processes (e.g. spraying, welding, plastering). We develop a novel
+model-based shared autonomous framework for incorporating the notion
+of skill assistance to aid operators to sustain these motion patterns
+whilst adhering to environment constraints. In order to achieve
+computational feasibility, we introduce a novel parameterization for
+state and control that combines skill and underlying trajectory
+models, leveraging a special type of curve known as Clothoids. This
+new parameterization allows for efficient computation of skill-based
+short term horizon plans, enabling the use of a model predictive
+control loop. Our hardware realization validates the effectiveness of
+our method to recognize a change of intended skill, and showing an
+improved quality of output motion, even under dynamically changing
+obstacles. In addition, extensions of the work to supervisory control
+are described. An exploratory study presents an approach that improves
+computational feasibility for complex tasks with minimal interactive
+effort on the part of the human. Adaptations are theorized which might
+allow such a method to be applicable and beneficial to high degree of
+freedom systems. Finally, a system developed in our lab is described
+that implements sliding autonomy and shown to complete multi-objective
+tasks in complex environments with minimal interaction from the human.
