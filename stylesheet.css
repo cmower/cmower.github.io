@@ -7,92 +7,92 @@ body {
 
 /* latin-ext */
 @font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 400;
-  color: grey;
-  src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.gstatic.com/s/lato/v15/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 400;
+    color: grey;
+    src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.gstatic.com/s/lato/v15/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
 @font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 400;
-  color: grey;
-  src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.gstatic.com/s/lato/v15/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 400;
+    color: grey;
+    src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.gstatic.com/s/lato/v15/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 700;
-  color: grey;
-  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v15/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 700;
+    color: grey;
+    src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v15/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
 @font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 700;
-  color: grey;
-  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v15/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 700;
+    color: grey;
+    src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v15/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 400;
-  color: grey;
-  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v15/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    color: grey;
+    src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v15/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
 @font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 400;
-  color: grey;
-  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v15/S6uyw4BMUTPHjx4wXiWtFCc.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    color: grey;
+    src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v15/S6uyw4BMUTPHjx4wXiWtFCc.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 700;
-  color: grey;
-  src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v15/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    color: grey;
+    src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v15/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
 @font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 700;
-  color: grey;
-  src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v15/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    color: grey;
+    src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v15/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
 a {
     color: #1772d0;
-  text-decoration: none;
+    text-decoration: none;
 }
 
 a:focus,
 a:hover {
-  color: #f09228;
-  text-decoration: none;
+    color: #f09228;
+    text-decoration: none;
 }
 
 body {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
-  color: dimgrey;
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    color: dimgrey;
 
 }
 
@@ -102,21 +102,21 @@ th,
 tr,
 p,
 a {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
 
 }
 
 strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
-  color: black;
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
 }
 
 b {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
-  color: black;
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
 }
 
 li {
@@ -124,46 +124,230 @@ li {
 }
 
 heading {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
-  color: black;
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 22px;
+    color: black;
 }
 
 papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
-  font-weight: 700;
-  color: black;
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: black;
 
 }
 
 name {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
-  color: black;
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 32px;
+    color: black;
 }
 
 .one {
-  width: 160px;
-  height: 160px;
-  position: relative;
+    width: 160px;
+    height: 160px;
+    position: relative;
 }
 
 .two {
-  width: 160px;
-  height: 160px;
-  position: absolute;
-  transition: opacity .2s ease-in-out;
-  -moz-transition: opacity .2s ease-in-out;
-  -webkit-transition: opacity .2s ease-in-out;
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -webkit-transition: opacity .2s ease-in-out;
 }
 
 .fade {
-  transition: opacity .2s ease-in-out;
-  -moz-transition: opacity .2s ease-in-out;
-  -webkit-transition: opacity .2s ease-in-out;
+    transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -webkit-transition: opacity .2s ease-in-out;
 }
 
 span.highlight {
-  background-color: #ffffd0;
+    background-color: #ffffd0;
 }
+
+
+/* Rest is for Emacs Init*/
+
+.title  { text-align: center;
+          margin-bottom: .2em; }
+.subtitle { text-align: center;
+            font-size: medium;
+            font-weight: bold;
+            margin-top:0; }
+.todo   { font-family: monospace; color: red; }
+.done   { font-family: monospace; color: green; }
+.priority { font-family: monospace; color: orange; }
+.tag    { background-color: #eee; font-family: monospace;
+          padding: 2px; font-size: 80%; font-weight: normal; }
+.timestamp { color: #bebebe; }
+.timestamp-kwd { color: #5f9ea0; }
+.org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+.org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+.org-center { margin-left: auto; margin-right: auto; text-align: center; }
+.underline { text-decoration: underline; }
+#postamble p, #preamble p { font-size: 90%; margin: .2em; }
+p.verse { margin-left: 3%; }
+pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+}
+pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+}
+pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+}
+pre.src:hover:before { display: inline;}
+/* Languages per Org manual */
+pre.src-asymptote:before { content: 'Asymptote'; }
+pre.src-awk:before { content: 'Awk'; }
+pre.src-C:before { content: 'C'; }
+/* pre.src-C++ doesn't work in CSS */
+pre.src-clojure:before { content: 'Clojure'; }
+pre.src-css:before { content: 'CSS'; }
+pre.src-D:before { content: 'D'; }
+pre.src-ditaa:before { content: 'ditaa'; }
+pre.src-dot:before { content: 'Graphviz'; }
+pre.src-calc:before { content: 'Emacs Calc'; }
+pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+pre.src-fortran:before { content: 'Fortran'; }
+pre.src-gnuplot:before { content: 'gnuplot'; }
+pre.src-haskell:before { content: 'Haskell'; }
+pre.src-hledger:before { content: 'hledger'; }
+pre.src-java:before { content: 'Java'; }
+pre.src-js:before { content: 'Javascript'; }
+pre.src-latex:before { content: 'LaTeX'; }
+pre.src-ledger:before { content: 'Ledger'; }
+pre.src-lisp:before { content: 'Lisp'; }
+pre.src-lilypond:before { content: 'Lilypond'; }
+pre.src-lua:before { content: 'Lua'; }
+pre.src-matlab:before { content: 'MATLAB'; }
+pre.src-mscgen:before { content: 'Mscgen'; }
+pre.src-ocaml:before { content: 'Objective Caml'; }
+pre.src-octave:before { content: 'Octave'; }
+pre.src-org:before { content: 'Org mode'; }
+pre.src-oz:before { content: 'OZ'; }
+pre.src-plantuml:before { content: 'Plantuml'; }
+pre.src-processing:before { content: 'Processing.js'; }
+pre.src-python:before { content: 'Python'; }
+pre.src-R:before { content: 'R'; }
+pre.src-ruby:before { content: 'Ruby'; }
+pre.src-sass:before { content: 'Sass'; }
+pre.src-scheme:before { content: 'Scheme'; }
+pre.src-screen:before { content: 'Gnu Screen'; }
+pre.src-sed:before { content: 'Sed'; }
+pre.src-sh:before { content: 'shell'; }
+pre.src-sql:before { content: 'SQL'; }
+pre.src-sqlite:before { content: 'SQLite'; }
+/* additional languages in org.el's org-babel-load-languages alist */
+pre.src-forth:before { content: 'Forth'; }
+pre.src-io:before { content: 'IO'; }
+pre.src-J:before { content: 'J'; }
+pre.src-makefile:before { content: 'Makefile'; }
+pre.src-maxima:before { content: 'Maxima'; }
+pre.src-perl:before { content: 'Perl'; }
+pre.src-picolisp:before { content: 'Pico Lisp'; }
+pre.src-scala:before { content: 'Scala'; }
+pre.src-shell:before { content: 'Shell Script'; }
+pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+/* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+pre.src-cpp:before  { content: 'C++'; }
+pre.src-abc:before  { content: 'ABC'; }
+pre.src-coq:before  { content: 'Coq'; }
+pre.src-groovy:before  { content: 'Groovy'; }
+/* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+pre.src-bash:before  { content: 'bash'; }
+pre.src-csh:before  { content: 'csh'; }
+pre.src-ash:before  { content: 'ash'; }
+pre.src-dash:before  { content: 'dash'; }
+pre.src-ksh:before  { content: 'ksh'; }
+pre.src-mksh:before  { content: 'mksh'; }
+pre.src-posh:before  { content: 'posh'; }
+/* Additional Emacs modes also supported by the LaTeX listings package */
+pre.src-ada:before { content: 'Ada'; }
+pre.src-asm:before { content: 'Assembler'; }
+pre.src-caml:before { content: 'Caml'; }
+pre.src-delphi:before { content: 'Delphi'; }
+pre.src-html:before { content: 'HTML'; }
+pre.src-idl:before { content: 'IDL'; }
+pre.src-mercury:before { content: 'Mercury'; }
+pre.src-metapost:before { content: 'MetaPost'; }
+pre.src-modula-2:before { content: 'Modula-2'; }
+pre.src-pascal:before { content: 'Pascal'; }
+pre.src-ps:before { content: 'PostScript'; }
+pre.src-prolog:before { content: 'Prolog'; }
+pre.src-simula:before { content: 'Simula'; }
+pre.src-tcl:before { content: 'tcl'; }
+pre.src-tex:before { content: 'TeX'; }
+pre.src-plain-tex:before { content: 'Plain TeX'; }
+pre.src-verilog:before { content: 'Verilog'; }
+pre.src-vhdl:before { content: 'VHDL'; }
+pre.src-xml:before { content: 'XML'; }
+pre.src-nxml:before { content: 'XML'; }
+/* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+pre.src-conf:before { content: 'Configuration File'; }
+
+table { border-collapse:collapse; }
+caption.t-above { caption-side: top; }
+caption.t-bottom { caption-side: bottom; }
+td, th { vertical-align:top;  }
+th.org-right  { text-align: center;  }
+th.org-left   { text-align: center;   }
+th.org-center { text-align: center; }
+td.org-right  { text-align: right;  }
+td.org-left   { text-align: left;   }
+td.org-center { text-align: center; }
+dt { font-weight: bold; }
+.footpara { display: inline; }
+.footdef  { margin-bottom: 1em; }
+.figure { padding: 1em; }
+.figure p { text-align: center; }
+.equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+}
+.equation {
+    vertical-align: middle;
+}
+.equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+}
+.inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+}
+#org-div-home-and-up
+{ text-align: right; font-size: 70%; white-space: nowrap; }
+textarea { overflow-x: auto; }
+.linenr { font-size: smaller }
+.code-highlighted { background-color: #ffff00; }
+.org-info-js_info-navigation { border-style: none; }
+#org-info-js_console-label
+{ font-size: 10px; font-weight: bold; white-space: nowrap; }
+.org-info-js_search-highlight
+{ background-color: #ffff00; color: #000000; font-weight: bold; }
+.org-svg { width: 90%; }
