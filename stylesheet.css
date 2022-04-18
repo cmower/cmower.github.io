@@ -1,4 +1,9 @@
-body {background-color: white;}
+body {
+    background-color: white;
+    padding:100px;
+    width:60%;
+    margin:auto
+}
 
 /* latin-ext */
 @font-face {
