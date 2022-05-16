@@ -1,0 +1,10 @@
+Tasks such as non-prehensile manipulation (e.g. pushing) pose
+difficult computational challenges for robots.  It is difficult to
+develop a reactive controller capable of completing these tasks
+within complex and unpredictable environments.  In contrast, humans
+typically complete these tasks repeatably and with ease.  The goal
+of this paper is to describe an approach we have been developing to
+incorporate human input via a shared autonomy interface to improve
+solver performance (e.g. convergence).  We provide early empirical
+evidence that our approach leads to higher success rates for planned
+motions, and fewer iterations for the solver.
