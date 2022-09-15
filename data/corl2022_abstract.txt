@@ -1,0 +1,18 @@
+Reliable contact simulation plays a key role in the development of
+(semi-)autonomous robots, especially when dealing with contact-rich
+manipulation scenarios, an active robotics research topic. Besides
+simulation, components such as sensing, perception, data collection,
+robot hardware control, human interfaces, etc. are all key enablers
+towards applying machine learning algorithms or model-based approaches
+in real world systems. However, there is a lack of software connecting
+reliable contact simulation with the larger robotics ecosystem
+(i.e. ROS, Orocos), for a more seamless application of novel
+approaches, found in the literature, to existing robotic hardware. In
+this paper, we present the ROS-PyBullet Interface, a framework that
+provides a bridge between the reliable contact/impact simulator
+PyBullet and the Robot Operating System (ROS). Furthermore, we provide
+additional utilities for facilitating Human-Robot Interaction (HRI) in
+the simulated environment. We also present several use-cases that
+highlight the capabilities and usefulness of our framework. Please
+check our video, source code, and examples included in the
+supplementary material.
