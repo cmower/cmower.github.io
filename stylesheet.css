@@ -167,3 +167,12 @@ name {
 span.highlight {
     background-color: #ffffd0;
 }
+
+.rounded-box {
+    display: inline-block;    
+    border: 1px solid #2783DA;
+    background-color: white;
+    color: #2783DA;
+    border-radius: 10px;
+    padding: 5px;
+}
