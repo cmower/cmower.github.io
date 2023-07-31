@@ -1,0 +1,18 @@
+Hyperspectral imaging (HSI) captures a greater level of spec- tral
+detail than traditional optical imaging, making it a potentially valu-
+able intraoperative tool when precise tissue differentiation is
+essential.  Hardware limitations of current optical systems used for
+handheld real- time video HSI result in a limited focal depth, thereby
+posing usability issues for integration of the technology into the
+operating room. This work integrates a focus-tunable liquid lens into
+a video HSI exoscope, and proposes novel video autofocusing methods
+based on deep reinforce- ment learning. A first-of-its-kind robotic
+focal-time scan was performed to create a realistic and reproducible
+testing dataset. We benchmarked our proposed autofocus algorithm
+against traditional policies, and found our novel approach to perform
+significantly (p < 0.05) better than tra- ditional techniques (0.070 ±
+.098 mean absolute focal error compared to 0.146 ± .148). In addition,
+we performed a blinded usability trial by having two neurosurgeons
+compare the system with different autofocus policies, and found our
+novel approach to be the most favourable, making our system a
+desirable addition for intraoperative HSI.
